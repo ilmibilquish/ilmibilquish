@@ -7,8 +7,6 @@ I'm a Data Analytics enthusiast with a strong foundation in data analysis, repor
 - Querying and transforming data using SQL  
 - Performing ad-hoc analysis using Excel, SQL, and Python  
 - Developing interactive dashboards with Power BI and Tableau  
-
-You can check out [My Resume](https://github.com/ilmibilquish/Resume) here.  
   
 #### 💡Fun Fact about Me
 Transitioning from architecture to data analytics, I went from calculating square footage to calculating business impact!  
